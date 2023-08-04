@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 5c8a983cfb8a5944ca9c38aa4e6813cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cactuses_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 403
+        width: 188
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97057621793cc4993de68f223f3e75
+      internalID: 1931774748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 403
+        width: 189
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbc48441fdaf2a45bf08b7617877d79
+      internalID: 1205305069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 402
+        width: 188
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38a21998581cc4d9d75d94a1cc721c
+      internalID: -1607068679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_13
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 402
+        width: 188
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a7d240bfc59054797061f4bf1f913c
+      internalID: -678607606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 140
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479da9c3b17f2a947948e8e8c06068fe
+      internalID: 1625023896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 128
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdadce2b59897947a4a981d2d23a941
+      internalID: 1925281533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 39
+        width: 98
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d9c1542ac8204c89fa7adcfb9b734
+      internalID: -1087419811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_46
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 133
+        width: 85
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1cd90d563b92d4d88e351e42a1de1f
+      internalID: 1051294776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cactuses_47
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 174
+        width: 79
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956b7690a4aeea04b95c3b09612034eb
+      internalID: -1126965202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cactuses_24: -1944374540
+      Cactuses_61: -1529006674
+      Cactuses_51: 1928419628
+      Cactuses_5: -1946545358
+      Cactuses_52: -862982559
+      Cactuses_76: 1273435761
+      Cactuses_27: -1350821273
+      Cactuses_35: 629840776
+      Cactuses_45: -1087419811
+      Cactuses_54: 1222713452
+      Cactuses_74: -1295820024
+      Cactuses_10: -974175513
+      Cactuses_31: -1755069319
+      Cactuses_43: 1925281533
+      Cactuses_55: 457612272
+      Cactuses_36: -602343041
+      Cactuses_56: -520661777
+      Cactuses_63: -627317524
+      Cactuses_66: 1842130478
+      Cactuses_58: -1481200444
+      Cactuses_72: -336619039
+      Cactuses_32: 1189719418
+      Cactuses_44: 140957337
+      Cactuses_73: -1104937822
+      Cactuses_50: -851856036
+      Cactuses_4: -972618482
+      Cactuses_77: -576378675
+      Cactuses_19: 902651961
+      Cactuses_26: -658839993
+      Cactuses_30: -411746674
+      Cactuses_48: -946878979
+      Cactuses_70: -1534116855
+      Cactuses_57: -280719720
+      Cactuses_1: -878707169
+      Cactuses_3: 661012462
+      Cactuses_17: 1245483537
+      Cactuses_42: 1256012067
+      Cactuses_15: -965130202
+      Cactuses_68: 1463069477
+      Cactuses_9: 1931774748
+      Cactuses_28: 964209773
+      Cactuses_53: 1731121234
+      Cactuses_33: 2077095859
+      Cactuses_12: -1607068679
+      Cactuses_71: -535461854
+      Cactuses_37: -1106466490
+      Cactuses_22: 653549444
+      Cactuses_64: -950196095
+      Cactuses_41: 1625023896
+      Cactuses_16: 831291267
+      Cactuses_23: -1925816027
+      Cactuses_38: 1518155487
+      Cactuses_39: 1813823331
+      Cactuses_34: 935451105
+      Cactuses_8: -1254111097
+      Cactuses_67: -1285266814
+      Cactuses_0: -1393699133
+      Cactuses_25: -426597170
+      Cactuses_20: 42988251
+      Cactuses_46: 1051294776
+      Cactuses_18: -1510906777
+      Cactuses_29: 1276830809
+      Cactuses_60: 1509398397
+      Cactuses_65: -271854103
+      Cactuses_13: -678607606
+      Cactuses_2: 829769188
+      Cactuses_40: -1722634220
+      Cactuses_78: 495659065
+      Cactuses_75: -1030563064
+      Cactuses_6: 146066274
+      Cactuses_21: -1008331886
+      Cactuses_14: 1571651098
+      Cactuses_7: -209764563
+      Cactuses_47: -1126965202
+      Cactuses_49: -748018660
+      Cactuses_59: -1617045063
+      Cactuses_69: 310359901
+      Cactuses_62: 356676086
+      Cactuses_11: 1205305069
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
